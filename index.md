@@ -15,11 +15,14 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- Plans
+- For today
+- testing
 
 1. Numbered
 2. List
+3. is
+4. cool
 
 **Bold** and _Italic_ and `Code` text
 
